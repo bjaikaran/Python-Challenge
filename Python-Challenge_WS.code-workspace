@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"files.defaultLanguage": "python"
+		"files.defaultLanguage": "python",
+		"python.pythonPath": "C:\\ProgramData\\Anaconda5\\python.exe"
 	}
 }
