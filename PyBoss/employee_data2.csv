@@ -1,0 +1,651 @@
+Emp ID,Name,DOB,SSN,State
+306,Richard Merritt,1986-10-02,550-29-4434,Arizona
+451,Kimberly Gates,1986-02-04,640-87-4794,Minnesota
+516,Matthew Walker,1980-04-10,067-49-5865,Ohio
+606,Jessica Snyder,1990-04-04,506-88-8964,Illinois
+59,Crystal Craig,1991-04-16,816-38-0529,Minnesota
+351,Adam Olson,1993-02-25,298-22-9163,Illinois
+645,Pamela Johnston,1979-02-12,125-47-8820,Massachusetts
+1,Brianna Harris,1975-09-24,088-16-7340,California
+174,Deborah Walker,1977-10-12,750-81-5339,North Dakota
+322,Carl Sosa,1993-03-29,748-44-6940,Maine
+223,William Richardson,1985-12-04,278-71-4138,Ohio
+637,Amy Wood,1985-10-16,776-34-4476,Florida
+250,Michael Moon,1994-03-27,753-37-0511,New Jersey
+497,Eduardo Cox,1986-12-06,001-60-9711,Hawaii
+484,William Wallace,1985-05-29,393-68-4602,Alaska
+210,Gail Rose,1975-01-17,796-20-2157,Missouri
+346,Nicholas Edwards,1988-03-07,179-49-6035,Minnesota
+231,Doris Brewer,1984-03-20,611-78-0631,Kansas
+359,Linda Graham,1975-02-05,825-70-0839,Idaho
+211,Lisa Sanchez,1991-02-01,145-20-8382,Connecticut
+50,Thomas Friedman,1982-03-19,867-61-0861,Vermont
+225,Jodi Mcdowell,1985-11-27,069-21-6661,Illinois
+325,Vincent Hernandez,1987-05-15,380-18-5174,Colorado
+153,Christine Carpenter,1976-05-10,657-88-1037,Florida
+40,Victoria Barber,1990-01-04,038-31-9775,Indiana
+551,George Bishop,1979-12-21,292-14-1432,California
+549,Karina Bailey,1984-09-20,018-41-4931,California
+531,Alyssa Mckenzie,1983-04-03,173-93-2634,Illinois
+69,Diana Camacho,1977-09-30,443-23-1432,Oklahoma
+323,Pamela Lee,1993-08-23,217-71-8627,Texas
+149,Andrew Horton,1991-11-23,280-29-3624,California
+238,Shannon Savage,1986-05-02,455-40-9788,West Virginia
+478,Paula Mcmillan,1994-07-17,496-42-1307,Georgia
+578,Veronica Dominguez,1977-05-16,435-97-4601,Washington
+470,Jeremy Rubio,1978-04-29,388-10-1685,Texas
+299,Heather Dominguez,1990-08-31,275-65-0404,Arkansas
+512,Michael Robertson,1980-02-09,433-10-1229,Arizona
+343,Sarah Fuller,1980-09-25,593-16-6452,Arkansas
+160,David Ingram,1976-05-09,637-39-0338,New Mexico
+315,Melanie Valdez,1988-03-30,711-17-6414,North Carolina
+67,Scott Decker,1980-05-27,579-70-7324,Wyoming
+274,Jim Nelson,1978-12-09,630-18-9727,New Mexico
+574,Miguel Rodriguez,1992-02-28,292-64-1604,South Carolina
+382,Mark Turner,1985-05-28,641-52-5314,Ohio
+30,Judy Gregory,1986-10-03,498-46-7862,Utah
+145,Pedro Moss,1984-01-09,073-58-3531,Maryland
+377,Kyle Foster,1973-06-27,842-49-8584,North Carolina
+184,Jacqueline Guerra,1992-08-27,662-25-4069,Maine
+319,James Torres,1987-12-18,786-24-5931,Maryland
+287,Cassandra Carter,1995-07-02,313-87-3985,Missouri
+588,Sonia Simmons,1993-09-11,796-37-5877,Connecticut
+227,Charles Becker,1991-05-03,480-04-8639,Georgia
+467,Maureen Gomez,1991-04-07,415-24-7594,Illinois
+335,Teresa Welch,1982-05-30,789-99-6927,Wisconsin
+630,Andrew Taylor,1973-12-02,118-55-9465,Virginia
+503,Michael Montgomery,1978-10-30,180-64-3469,Wisconsin
+133,Shawn Hill,1980-08-21,201-69-6881,Nevada
+505,Jamie Glover,1978-02-16,079-73-7957,Vermont
+481,Alex Blake,1980-11-07,884-64-1352,Iowa
+248,Evelyn Gray,1990-07-24,712-87-5313,Arkansas
+566,Roy Miller,1980-05-24,585-11-5723,New York
+117,Reginald Fox,1992-08-15,604-37-3134,New York
+476,Scott Wright,1986-05-17,655-61-9950,New Jersey
+406,Julie Jones,1988-02-06,344-77-2013,Hawaii
+36,Cynthia Padilla,1994-09-25,184-42-2639,New York
+10,William Fowler,1994-08-06,797-68-3529,Maryland
+324,Jeffrey Guerrero,1985-05-10,598-15-9042,Missouri
+275,Caitlin Day,1982-06-30,318-97-5771,Montana
+114,Leslie Harrison,1983-01-30,392-12-8879,Georgia
+308,Sandra Harris,1976-09-28,873-64-9015,Idaho
+18,Carol Sanchez,1978-05-24,755-20-1687,Florida
+207,Theresa Bell,1976-12-17,642-68-2611,Alabama
+647,Duane Roberts,1988-12-02,171-34-9692,Ohio
+428,Seth Lee,1974-08-15,637-16-8223,Mississippi
+412,Yolanda Ford,1981-02-23,345-98-1427,Washington
+418,Laura Allen,1991-11-05,594-72-9670,Pennsylvania
+654,Matthew Davis,1989-05-05,075-15-1907,Vermont
+427,Melanie Thomas,1981-07-06,005-44-2706,Michigan
+424,Gregory Knapp,1990-12-02,141-63-2289,Hawaii
+366,Jeffrey Rogers,1975-06-15,411-96-1714,Nebraska
+156,Natalie Moore,1987-06-05,231-09-2287,Arizona
+309,Anna Smith,1979-06-02,058-60-1301,Vermont
+110,Jennifer Alvarez,1979-10-15,657-42-9329,Michigan
+534,Philip Flowers,1976-10-23,438-78-8497,Utah
+434,Cassandra Hernandez,1993-05-22,565-06-8564,Montana
+426,Timothy Greer,1990-04-02,832-14-8897,Alabama
+276,Ronald Wade,1985-09-15,229-88-3571,Washington
+506,Robert Robinson,1983-12-26,736-10-5550,Delaware
+576,Steven White,1984-03-03,649-40-9538,Florida
+83,Tammy Sanchez,1983-03-29,259-66-1647,Connecticut
+241,Jonathan Schroeder,1993-03-15,764-29-9603,Pennsylvania
+644,Lisa Lucero,1987-03-29,813-97-8897,Iowa
+530,Joseph Weber,1978-11-20,717-53-4906,New Mexico
+528,Kevin Collins,1988-02-15,324-58-5444,Massachusetts
+76,Daniel Kramer,1978-07-28,452-72-1204,South Carolina
+35,Amanda Sharp,1978-04-11,820-74-1686,Minnesota
+321,Larry Donaldson,1986-03-15,706-77-3005,Kentucky
+107,Adam Robinson,1989-01-06,703-03-5707,Idaho
+376,Donald Evans,1988-09-08,478-92-5047,Montana
+215,Scott Parsons,1983-06-21,675-04-3454,South Carolina
+582,Keith Morris,1975-02-21,705-34-2768,Wyoming
+150,Stacy Moreno,1982-03-11,274-32-5884,New York
+244,Rodney Cain,1989-01-14,677-94-0920,Kansas
+621,Cynthia West,1985-05-19,548-80-5588,Washington
+13,Molly Contreras,1979-08-23,221-48-9475,North Dakota
+82,Zachary Garner,1985-11-06,657-09-2872,Minnesota
+608,Jennifer Buck,1989-01-22,394-76-7042,Delaware
+425,Troy Miller,1973-12-29,635-94-4539,Connecticut
+116,Brianna Sullivan,1987-12-20,215-13-3098,Maine
+394,Gary Donaldson,1977-08-31,372-30-1578,Texas
+625,William Kane,1991-12-02,655-41-8946,New Mexico
+43,Frederick Franklin,1985-12-19,243-23-1761,Maine
+431,Debra Meadows,1974-11-09,644-82-3402,Rhode Island
+441,Robert Gonzales,1975-06-24,019-28-3685,Kansas
+330,Theresa Johnson,1985-12-22,280-72-5994,New Mexico
+552,Donald Garcia,1987-07-20,813-80-5855,Washington
+554,Zachary Orozco,1988-04-05,758-59-5023,Nevada
+300,David Velasquez,1983-04-22,294-52-1815,Indiana
+480,Andrew Carter,1989-03-19,195-79-1657,Maryland
+53,Linda Snyder,1984-08-10,493-96-5208,New Hampshire
+415,Michael Smith,1975-10-13,861-50-7543,Vermont
+367,Deborah Rojas,1990-05-07,420-21-5837,Ohio
+618,Maria Chen,1983-05-24,575-59-2318,Michigan
+205,Patrick Richardson,1996-02-16,086-06-8308,Ohio
+347,Brian Ortega,1986-12-13,627-46-4178,Kentucky
+68,Anna Wilson,1973-09-25,696-44-6974,Utah
+312,Justin Macias,1977-06-10,498-87-8344,Hawaii
+266,James Greene,1977-09-26,284-91-8569,West Virginia
+72,Steven Bryan,1980-01-03,640-84-5468,North Carolina
+520,Roy Peterson,1974-12-10,478-92-6147,Iowa
+33,John Velazquez,1988-09-03,684-34-7553,Alaska
+348,Christopher Coleman,1977-09-05,460-89-7378,Indiana
+587,Alexander Yu,1981-11-06,284-78-2480,New Jersey
+206,Janet Klein,1979-05-31,409-68-2190,Oregon
+173,Shelly Roberson,1989-09-02,364-69-5762,Wyoming
+622,Stephanie Webb,1976-05-16,745-22-5726,South Carolina
+517,Paul Walker,1993-01-27,276-65-7608,New Hampshire
+243,Alison Parsons,1981-05-25,668-77-6674,Pennsylvania
+653,Melinda Riley,1981-04-05,036-03-5890,Vermont
+573,Sarah Potts,1981-11-01,697-03-1063,Pennsylvania
+438,Lisa Sutton,1984-04-18,136-83-4816,South Carolina
+147,Samuel Foster,1980-09-22,017-10-2218,Florida
+8,Drew Hendrix,1995-11-26,660-12-3106,Missouri
+46,Mark Mendoza,1995-05-31,024-68-5152,California
+281,Gerald Cummings,1975-11-15,798-39-8084,Delaware
+47,Wendy Arnold,1980-09-09,025-09-9180,Louisiana
+541,Nicole Haney,1979-03-08,663-70-6909,Maryland
+420,John Perez,1983-11-25,401-51-0173,Mississippi
+298,Morgan Ruiz,1990-07-28,546-05-1323,Texas
+356,Justin Johnson,1975-10-16,044-54-1598,Illinois
+400,Timothy Rice,1991-06-30,181-61-2001,New Jersey
+341,Roy Hunt,1980-03-06,120-76-8488,Massachusetts
+48,Tracey Wright,1979-08-24,869-22-1486,West Virginia
+555,Stephen Ramirez,1976-09-14,135-79-7145,Tennessee
+124,John Johnson,1975-07-15,414-75-5291,North Dakota
+162,Jonathan Wilson,1996-01-16,485-88-6323,Colorado
+457,Haley Chambers,1983-04-17,067-88-2159,Wisconsin
+374,Lori Smith,1995-08-25,684-89-2428,Ohio
+269,Kaitlin Cantu,1986-01-26,020-06-8010,Ohio
+640,Heather Mcconnell,1985-10-11,731-29-6912,Virginia
+397,Courtney Coleman,1980-12-09,367-99-1338,Washington
+165,Erica Mckenzie,1992-05-24,847-05-4227,North Carolina
+329,Molly Campbell,1987-11-25,656-12-0569,Mississippi
+201,Suzanne Bailey,1993-08-22,255-10-2799,Connecticut
+131,Robin Thomas,1982-07-15,313-91-0991,Alabama
+583,Timothy Mcdonald,1995-02-15,583-13-1518,California
+532,Timothy Gilmore,1982-02-06,457-66-1451,Ohio
+159,Jennifer Navarro,1988-04-25,544-98-4586,Nebraska
+25,Heather Williams,1988-01-13,365-94-4356,Florida
+52,Jeffrey Brady,1979-04-22,160-30-4662,Kansas
+305,Carlos Reid,1986-07-02,882-70-8237,Oklahoma
+320,James Logan,1992-11-22,104-37-9674,Georgia
+216,Angie Jensen,1994-07-11,238-59-3905,Delaware
+529,Julie Andrews,1975-04-12,501-42-7469,Illinois
+284,Amy Gillespie,1993-12-25,839-58-7047,West Virginia
+90,Nicholas Sanchez,1974-12-25,702-70-7680,South Carolina
+372,William Smith,1973-08-01,368-32-0784,Mississippi
+317,David Cole,1986-10-29,586-93-4943,Kentucky
+590,Christopher Perez,1986-04-22,133-15-2592,Tennessee
+443,Randy Fuentes,1975-07-29,172-01-1010,Colorado
+477,Rodney Cain,1982-08-05,197-51-7264,Rhode Island
+333,Kellie Jenkins,1991-06-29,856-30-9355,Idaho
+294,James Pace,1995-06-14,289-58-2858,New Hampshire
+471,Andrew Morris,1993-02-11,465-62-5100,Vermont
+482,Crystal Bennett,1976-10-10,129-24-6931,Wyoming
+387,Regina Mitchell,1984-02-27,231-16-9288,Wisconsin
+122,Deanna Smith,1991-03-02,611-16-4439,North Carolina
+113,Leonard Soto,1983-03-07,880-12-3708,Connecticut
+37,Mary Castillo,1984-01-17,008-78-2694,Oregon
+592,Theresa Moody,1974-04-22,105-83-3219,West Virginia
+486,Kathryn Wright,1976-12-29,361-39-6030,Mississippi
+51,Shawn Higgins,1978-12-10,317-48-8679,New Mexico
+357,Mitchell Sutton,1981-08-14,860-22-9164,North Carolina
+70,Doris Bird,1990-08-13,648-04-4009,Louisiana
+462,Marissa Miles,1996-02-21,433-44-2965,Massachusetts
+87,Jonathan Roberts,1976-11-22,316-34-5623,Montana
+511,Alex Trevino,1990-04-26,773-81-0248,California
+445,Amanda Johnson,1986-08-11,574-81-6051,Nevada
+409,Cameron Vasquez,1979-03-17,817-01-2249,Nevada
+170,Matthew King,1995-09-03,491-45-8858,Vermont
+340,Melanie Cantu,1982-04-15,238-24-6287,New Mexico
+230,Corey Tran,1973-07-08,525-02-6581,Oklahoma
+106,Gregory Barrera,1975-03-27,262-36-6030,Texas
+565,Nathaniel Jones,1990-12-20,054-56-1384,North Carolina
+154,Wayne Ayala,1979-05-23,550-77-4687,Maine
+273,Hannah Murray,1989-08-07,324-36-3412,Vermont
+389,David Beltran,1993-12-03,483-16-3808,New Mexico
+373,Patricia Neal,1979-06-25,863-92-7594,California
+429,Tristan Johnson,1987-04-17,294-75-9317,Oregon
+234,Kelly Kelley,1986-07-22,038-84-3747,Mississippi
+64,Amanda Pena,1980-03-12,523-92-8900,Nebraska
+413,Miguel Richardson,1986-11-25,420-63-9705,Alabama
+152,Robert Waters,1978-05-24,025-30-7744,Washington
+263,Travis Beard,1994-01-23,820-06-8806,Nevada
+88,Courtney Hubbard,1995-08-17,440-38-4063,Pennsylvania
+256,Jason Martinez,1973-04-18,706-53-1660,Georgia
+513,Xavier Davis,1981-01-07,753-50-6384,Texas
+461,Ryan Dominguez,1989-07-23,513-72-5205,Oklahoma
+71,Robert Porter,1981-06-17,841-63-7654,Montana
+5,Bradley Pierce,1980-11-21,585-30-4404,Delaware
+63,Carla Hunter,1979-05-07,482-15-4935,Utah
+203,James Clark,1981-02-09,676-32-3611,Missouri
+179,Jeremy Schneider,1995-07-07,024-67-1244,Nevada
+442,Edward Gutierrez,1993-05-14,577-74-5129,South Dakota
+310,Robin Adams,1985-07-26,032-65-7448,Ohio
+398,Manuel Adams,1974-11-02,568-56-0945,Mississippi
+337,Debra Butler,1980-08-16,130-88-9787,Wyoming
+182,Justin Manning,1984-10-23,802-15-2911,Kansas
+283,Edward Booth,1983-12-11,804-92-9766,Nebraska
+3,James Davis,1982-07-17,171-90-3860,North Dakota
+540,Richard Yang,1988-07-03,684-04-0122,New York
+447,Curtis Cooper,1988-02-12,356-82-8512,Minnesota
+344,Barry Bell,1987-09-11,175-04-9784,Georgia
+19,Sheryl Olson,1980-01-05,140-07-2696,Pennsylvania
+146,Adam Valencia,1979-02-15,410-83-5416,South Carolina
+456,Michael Woods,1980-10-27,654-02-7753,New Hampshire
+562,Thomas Phillips,1982-03-14,154-80-2744,Wisconsin
+514,Linda Krause,1988-03-01,277-46-8365,New York
+74,Shirley Silva,1973-09-01,340-76-6968,Massachusetts
+432,Anita Martinez,1982-09-27,340-94-2010,Massachusetts
+119,Tyler Young,1992-11-15,585-72-6281,Minnesota
+62,Travis Joseph,1976-04-22,367-23-1490,South Dakota
+187,Susan Miranda,1991-07-22,080-80-9685,Pennsylvania
+195,Yvonne Mitchell,1994-03-15,265-51-7845,Tennessee
+455,Denise Rodriguez,1979-12-16,515-63-3315,Colorado
+79,Darius Raymond,1994-11-29,500-27-1206,Utah
+109,Justin Irwin,1987-11-10,477-04-5532,Indiana
+9,Derrick Wilkinson,1986-01-14,100-81-5430,Vermont
+164,John Savage,1981-11-23,398-54-6935,New York
+652,Amber Patton,1992-12-30,415-83-5987,Iowa
+12,Matthew Holland,1990-02-10,365-94-1066,Montana
+349,Kevin Smith,1994-12-18,016-31-0085,Illinois
+342,Christopher Pearson,1993-12-03,564-24-7394,Vermont
+77,Jeffrey Bass,1990-05-24,348-31-2323,Colorado
+493,Jennifer Pacheco,1995-07-11,441-87-8890,South Dakota
+236,Jason Reed,1988-05-17,196-94-4269,Massachusetts
+460,Scott Fowler,1977-04-07,857-07-8513,California
+21,Jamie Rojas,1993-07-25,438-77-3611,Florida
+28,Latoya Cooley,1975-09-24,573-65-4824,South Carolina
+504,James Lane,1986-04-23,347-73-8758,Vermont
+633,Michael Bishop,1991-07-22,237-77-8501,Georgia
+417,Sandra Clark,1987-01-02,850-76-9244,Arizona
+112,Kari Hernandez,1993-03-14,625-50-3621,Iowa
+448,Sandra Vasquez,1990-04-30,258-12-9222,Minnesota
+58,Dennis Webb,1994-11-28,274-75-2041,New Jersey
+598,Logan Edwards,1988-04-13,053-66-1605,Hawaii
+487,Thomas Jordan,1986-02-10,798-18-1768,Louisiana
+627,Christopher Wolf,1995-02-06,175-75-6914,California
+411,Matthew Reed,1978-03-28,326-19-8973,Washington
+604,Michelle Cummings,1991-09-14,269-62-2448,Ohio
+183,Katherine Hughes,1973-10-29,387-47-8246,Illinois
+56,Nicholas Evans,1993-09-24,782-01-2141,Wyoming
+4,Jason Miller,1984-07-23,540-81-7706,Florida
+259,Sara Brown,1987-05-01,491-78-3116,Hawaii
+105,Glen Shaw,1988-12-02,350-45-9848,Michigan
+535,Ashley Glass,1988-04-30,344-39-4688,South Dakota
+139,Kayla Smith,1976-12-02,261-17-3532,Georgia
+613,Rebekah Copeland,1990-08-23,052-64-6065,California
+650,Cassandra Garcia,1975-04-17,685-89-0099,West Virginia
+123,Stephanie Murray,1995-07-27,888-89-8145,West Virginia
+615,Jessica Carroll,1989-04-05,002-31-6287,Connecticut
+318,Kevin Phillips,1981-01-12,612-78-1648,Kansas
+171,Renee Lin,1983-01-20,411-65-7195,Pennsylvania
+616,Victoria Horn,1986-06-09,545-94-7190,Missouri
+571,Edward Brown,1992-02-16,782-90-3654,New Hampshire
+507,George Skinner,1984-07-08,802-80-0188,Minnesota
+185,Jeffrey Moore,1992-07-05,608-47-8685,Montana
+157,Vicki Rubio,1994-09-20,232-35-0780,Arkansas
+550,Janet Mejia,1995-02-10,609-07-0979,Colorado
+158,Nathaniel Herrera,1981-08-23,571-94-5439,South Dakota
+570,Nathan Perez,1985-03-29,679-58-2343,Rhode Island
+196,Madeline Reid,1981-10-13,805-27-5784,Missouri
+350,Sandy Fletcher,1986-11-01,096-19-0753,North Dakota
+355,Julie Morrison,1991-10-22,456-25-2142,Florida
+539,Erin Scott,1986-08-21,651-16-0888,Kansas
+559,Katelyn Walsh,1983-01-08,174-26-8671,Massachusetts
+391,Victoria Stone,1979-08-20,825-49-8271,Kentucky
+219,Jason Lyons,1976-05-05,524-21-1954,Florida
+217,Shannon Williams,1980-02-03,447-36-3880,Pennsylvania
+586,Brian Atkinson,1977-11-10,492-08-0094,South Dakota
+385,Nicole Glover,1982-05-14,755-93-8215,Arizona
+651,Randall Brady,1991-07-10,377-92-7259,New Jersey
+22,David Reyes,1993-05-15,106-61-3564,Kansas
+365,Patricia Rowe,1987-07-16,619-69-5821,South Carolina
+280,Tammy Riley,1986-01-25,093-17-3320,New York
+601,Heather Watson,1984-03-20,117-94-3947,Pennsylvania
+41,Elizabeth Buckley,1975-03-11,812-47-5560,Maine
+172,Ryan Miller,1993-11-28,644-47-2748,Hawaii
+600,Christopher Andrade,1982-05-21,207-78-0471,New York
+502,Erin Smith,1985-06-09,528-45-8598,Idaho
+141,Catherine Harris,1988-03-09,147-60-4418,Maryland
+98,Patricia Meyer,1991-11-12,075-70-6834,West Virginia
+85,Brandy Poole,1992-04-22,824-14-0953,Louisiana
+92,Sharon Clark,1985-12-01,609-09-6279,Iowa
+190,Melissa Hill,1973-07-13,456-76-0981,North Carolina
+336,Jacob Robbins,1987-07-23,639-44-6290,Alaska
+642,Paula Booker,1994-09-08,238-95-9485,Illinois
+577,Kimberly Williamson,1979-08-01,856-38-6122,West Virginia
+97,Brett Wright,1989-11-09,429-70-9553,Delaware
+202,Chris Gonzalez,1987-02-08,017-11-4944,Alaska
+518,David Knight,1993-11-29,233-74-3512,New York
+543,Alison Rojas,1976-04-22,550-84-5964,Maryland
+414,Christopher Carpenter,1974-05-15,020-62-8717,Arizona
+422,Garrett Jimenez,1980-07-20,749-14-8388,Florida
+399,Ryan Gross,1981-06-01,006-94-3203,Pennsylvania
+327,Beth Parker,1983-05-13,076-24-3382,South Carolina
+536,Steve Gray,1989-06-08,059-10-6489,Utah
+303,Donna Bowen,1983-03-25,847-83-6442,Nevada
+379,Jennifer Barrett,1989-09-14,324-20-9984,North Dakota
+437,Emily Vargas,1976-06-14,586-56-9940,Mississippi
+161,Erica Bennett,1988-09-15,773-01-4212,Washington
+524,Katherine Tucker,1977-11-19,506-41-1858,Montana
+568,Heather Cain,1992-05-28,189-07-2928,Florida
+575,Brett Russo,1983-06-21,151-95-0806,Iowa
+483,Anthony Diaz,1978-07-06,635-92-3558,Alaska
+339,Matthew Bryan,1976-04-13,861-69-8845,Rhode Island
+542,Jesse Morgan,1991-10-30,703-28-4169,Nevada
+255,Miranda Ford,1981-04-22,750-96-6704,Michigan
+148,Christina Whitaker,1986-12-26,592-21-3714,Wisconsin
+328,Joshua Gentry,1984-08-03,197-69-0805,Maine
+295,Heather Cervantes,1992-11-28,769-25-8234,Illinois
+95,Jessica Kim,1983-04-27,477-45-6558,Maine
+489,Cynthia Martinez,1989-06-14,038-48-2458,Missouri
+464,John Chavez,1977-01-04,481-05-3089,Tennessee
+363,Whitney Lucas,1976-10-21,575-66-7219,Utah
+444,Heidi Shelton,1979-03-01,860-48-5494,Connecticut
+135,Kyle Pruitt,1984-03-11,735-54-4158,California
+472,Corey Anderson,1995-09-15,158-12-6787,Wyoming
+118,Tonya Boyd,1984-09-15,062-69-1566,Georgia
+439,Eric Wilson,1981-07-02,006-07-7503,Illinois
+288,John Roberts,1976-01-31,030-38-7902,Florida
+558,Alex Ray,1981-01-27,326-90-8449,New Hampshire
+24,Anita Miller,1977-12-24,476-54-9560,Kentucky
+213,Patrick Jones,1979-08-08,395-74-7500,Massachusetts
+579,Bethany James,1975-03-01,843-26-3621,Mississippi
+596,Christopher Holt,1986-06-14,620-10-6983,Ohio
+546,Amanda Richards,1993-03-24,112-59-9096,Kentucky
+140,Joe Jones,1995-08-08,531-71-3234,Utah
+545,Andrew Arnold,1995-01-11,410-83-4614,North Dakota
+16,Matthew Ford,1993-04-23,621-79-1182,Michigan
+177,Jason Bruce,1984-04-07,493-87-3256,Arkansas
+132,John Smith,1973-09-17,318-01-3607,Alaska
+392,Sarah Harrison,1992-07-17,210-03-9044,Nebraska
+61,Brian Gentry,1993-09-19,635-11-3233,South Dakota
+128,David Simpson,1987-03-20,520-15-3652,North Dakota
+136,Lauren Smith,1987-04-23,697-99-1553,Nebraska
+421,Matthew Mccullough,1980-06-08,122-30-3326,Hawaii
+563,Colin Gomez,1990-09-19,091-60-2982,Oregon
+260,Linda Parker,1986-05-25,396-92-6372,Colorado
+638,Daniel Sanchez,1985-12-09,708-66-3042,Minnesota
+491,Carol Arnold,1992-09-18,459-74-2393,New Hampshire
+533,Melissa Sullivan,1985-07-07,117-12-0870,Alaska
+313,Jessica Andrews,1986-01-22,177-45-8558,North Dakota
+307,Jonathan Miller,1990-02-10,565-62-9322,Maine
+527,Thomas Hill,1981-03-31,222-06-0189,Iowa
+494,Carolyn Stevenson,1986-11-30,728-67-8058,New Mexico
+331,Aaron Stokes,1980-05-25,491-46-1272,New Jersey
+629,Jessica Lopez,1992-02-20,011-35-2951,Oklahoma
+257,Christine Howard,1989-05-18,446-33-0988,Kansas
+519,Brandon Page,1984-11-18,085-49-9693,Idaho
+423,Tony Farley,1981-12-21,220-03-2878,Colorado
+192,Beth Smith,1973-12-19,547-45-7282,South Carolina
+163,Andrea Solomon,1978-08-06,758-46-9426,California
+589,Charlotte Norris,1974-05-31,476-96-3989,Wyoming
+73,Thomas Lewis,1976-11-03,284-81-0063,Utah
+500,Todd Taylor,1994-11-13,282-03-9718,Massachusetts
+14,Courtney Holmes,1982-11-16,724-11-2343,Georgia
+209,Julie Carter,1979-01-13,052-16-5968,Idaho
+167,Alex Ryan,1973-06-08,309-51-1221,Texas
+138,David Bartlett,1979-10-22,411-56-1683,Massachusetts
+39,Rebekah Pacheco,1994-05-01,698-62-5840,Texas
+169,Stacey Miller,1985-03-29,219-41-4900,North Carolina
+246,Jennifer Shannon,1976-08-23,636-62-1669,Maryland
+452,Jennifer Collins,1979-10-09,803-64-0512,Pennsylvania
+108,Christopher Lloyd,1992-11-07,605-08-4645,Delaware
+166,Javier Serrano,1977-10-23,857-99-6205,Kansas
+485,Kelsey Wong,1978-10-31,461-44-3043,Tennessee
+89,Megan Morris,1974-02-03,547-69-0138,Louisiana
+297,Anne Weaver,1977-08-21,622-92-5164,Delaware
+611,Lisa Parks,1987-03-29,566-13-1604,Virginia
+479,Emily Glover,1978-01-04,158-23-9003,Maryland
+508,John Mitchell,1995-07-09,613-08-0496,Illinois
+252,Ricardo Hardy,1987-01-19,031-24-9349,Connecticut
+233,Kayla Pena,1991-12-28,632-36-1679,New York
+176,Luis Tyler,1979-05-30,501-57-9072,New Jersey
+446,Willie Griffin,1975-07-14,796-65-9186,Montana
+199,Ashley Collins,1980-02-24,725-28-9767,Georgia
+617,Cynthia Barrett,1989-11-30,125-78-3624,South Carolina
+465,Cynthia Owens,1978-12-31,769-57-0450,South Carolina
+129,Eric Stone,1995-08-17,482-36-4439,Montana
+121,Debbie Figueroa,1989-01-02,247-43-0264,Iowa
+254,Ashley Gray,1978-01-17,426-86-4202,New Hampshire
+285,Steven Archer,1994-11-05,838-10-5137,Delaware
+29,Thomas Yu,1992-09-03,381-42-3012,California
+200,Karen King,1991-05-05,597-43-0930,New Mexico
+561,Matthew Gutierrez,1978-03-03,562-47-5772,Georgia
+450,Karen Bailey,1986-04-05,224-93-6676,Arkansas
+358,Samantha Bradley,1974-04-17,131-96-4371,Rhode Island
+54,Jo Young,1975-04-16,345-39-5859,South Carolina
+27,Daniel Clark,1974-05-10,184-40-0895,North Carolina
+572,Joy Stephenson,1986-04-24,190-83-1287,Ohio
+155,Emily Vazquez,1987-01-27,352-35-1130,Arizona
+557,Jennifer Mcclain,1976-10-11,811-11-4846,Wyoming
+605,Natasha Levy,1982-03-15,261-96-2175,California
+496,Gerald Thompson,1975-03-20,659-43-4094,Massachusetts
+401,Nicholas Dennis,1974-06-16,045-90-9121,South Dakota
+584,Philip Sanchez,1984-02-26,082-80-1270,Arizona
+475,Tyler Dougherty,1976-01-21,379-23-5604,Connecticut
+362,Jill Kelly,1978-04-07,668-19-5780,Idaho
+436,Charles Collins,1982-06-15,728-56-9682,Oklahoma
+11,Theresa Richards,1992-05-18,369-43-3561,Nevada
+218,Cameron Conrad,1981-01-20,635-21-7570,Wisconsin
+449,Derek Torres,1994-02-17,340-85-4558,Missouri
+469,Christopher Cox,1975-03-30,667-74-5972,New Jersey
+538,Angelica Hicks,1977-02-08,451-64-6136,Alabama
+560,Robert Reeves,1984-07-28,125-84-3714,Alabama
+383,Dennis Sawyer,1995-09-09,395-92-2344,Illinois
+352,Drew Miller,1974-12-10,234-98-3935,South Carolina
+405,Allison Gilmore,1986-11-27,384-06-8051,Hawaii
+648,Donald Snyder,1987-05-20,697-13-9963,Pennsylvania
+643,Audrey Terry,1983-09-08,573-60-0293,Maryland
+522,Eric Rice,1989-04-11,764-94-7437,Kentucky
+509,Edwin Mcpherson,1984-03-03,874-11-2108,Virginia
+262,Nicholas Ibarra,1990-01-18,839-45-2530,Arkansas
+96,Travis Davis,1980-12-15,507-70-5886,South Dakota
+404,Amy Taylor,1981-11-13,447-21-6784,Hawaii
+463,Christina Martin,1987-06-03,879-34-7188,Delaware
+7,Kevin Ryan,1990-02-28,029-17-9668,Maryland
+134,Megan Meyer,1987-08-13,012-02-5943,Maine
+49,Dorothy Diaz,1982-02-26,320-17-8456,North Carolina
+614,Donna Edwards,1982-09-10,325-04-2346,Hawaii
+390,Anna Huffman,1989-05-09,228-85-4624,Oregon
+242,Margaret Young,1974-01-30,713-40-0072,West Virginia
+279,Bridget Knox,1984-07-14,551-19-7002,Virginia
+78,James Kline,1994-06-08,766-47-8973,Texas
+626,Bernard Peterson,1994-10-26,760-30-7589,North Dakota
+277,Courtney Brown,1979-06-12,121-78-4597,Georgia
+304,Brandon Rodriguez,1982-05-03,352-42-0784,Pennsylvania
+60,Lindsey Hoffman,1988-08-17,085-73-5428,South Carolina
+384,Robert Romero,1976-05-07,172-74-0204,Oregon
+595,Justin Galvan,1996-02-10,861-86-1508,Nevada
+419,Aaron Peterson,1982-12-25,177-39-5718,Florida
+100,Olivia Morris,1995-03-06,225-56-8740,New Hampshire
+66,Jesse King,1973-05-09,796-82-1381,Michigan
+240,Keith Roberson,1977-09-22,058-68-3420,Vermont
+57,Nancy Taylor,1977-09-17,802-35-5039,Indiana
+631,Alice Vasquez,1988-07-23,200-12-7151,Michigan
+271,Erin Pratt,1983-11-18,191-16-8686,South Dakota
+2,Christopher Gilmore,1993-10-15,270-78-4753,Delaware
+459,Crystal Butler,1993-05-04,187-80-0021,Connecticut
+104,Susan Jones,1995-06-15,392-49-6550,Maine
+632,Matthew Lindsey,1978-07-07,292-68-8170,Iowa
+265,Sherry Brown,1976-10-07,281-86-6665,Wisconsin
+198,Larry Rosales,1990-10-12,791-40-9564,Massachusetts
+410,Tammy Lopez,1984-07-20,415-93-6816,Georgia
+75,Darrell Hernandez,1995-05-09,740-08-5081,New Hampshire
+249,Robert Brown,1978-02-19,369-33-0331,Maine
+636,Benjamin Montoya,1993-07-06,716-68-2824,California
+222,Nicole Hull,1989-08-18,777-98-6600,West Virginia
+332,Mary Willis,1985-02-22,274-54-1267,California
+204,James Shelton,1982-08-16,430-13-4222,Texas
+635,Matthew Ward,1983-12-08,297-53-4026,Alaska
+430,Kelly Moore,1994-01-15,141-48-6155,Louisiana
+125,Thomas Chung,1981-06-20,732-75-2956,Idaho
+144,Oscar Sosa,1994-02-27,319-47-4449,Wisconsin
+498,John Collins,1992-12-12,082-43-7613,Wisconsin
+490,Jocelyn Brewer,1979-11-20,378-32-4853,Oregon
+42,Taylor Frazier,1983-08-21,481-26-0444,South Carolina
+402,Jasmine Berger,1974-09-02,640-08-1090,Ohio
+523,Bobby Gaines,1991-01-14,222-57-0433,Arizona
+388,Christopher Norton,1984-09-18,196-23-0807,Pennsylvania
+151,Jenna Rodriguez,1993-05-29,862-63-8575,Arizona
+396,Brittany Christensen,1991-10-21,400-05-1875,Washington
+142,Charles West,1991-11-19,661-70-0106,Wyoming
+293,Victoria Mitchell,1990-02-28,233-96-0189,Colorado
+127,Jane Griffin,1984-05-11,459-44-6929,Texas
+103,Melvin Williams,1973-10-13,079-47-7522,Alabama
+270,Steven Thornton,1977-05-24,405-30-5687,Arkansas
+599,Alexander Luna,1975-09-22,054-09-1960,Kansas
+649,Shannon Jones,1980-05-17,034-06-7766,Texas
+364,Julie Jones,1985-03-01,482-38-7025,Arizona
+45,Elizabeth Ward,1984-09-08,667-01-5228,Minnesota
+628,Samantha Young,1992-11-13,204-46-4088,Alaska
+474,Melissa Bullock,1982-09-25,637-22-7242,Virginia
+553,Rachel Richardson,1980-08-25,252-80-2777,Florida
+501,Barbara Reyes,1992-01-04,732-67-9352,Mississippi
+612,Jerry Morales,1979-08-13,665-74-1490,Virginia
+433,Jose Johnson,1995-05-22,003-94-6605,Mississippi
+453,Brian Shelton,1978-03-07,347-14-6632,North Dakota
+44,Matthew Rodriguez,1977-06-16,277-71-4629,Kansas
+81,Victoria Greene,1980-07-01,394-99-4429,Indiana
+610,Brian Frazier,1985-11-03,506-09-2972,New York
+375,Theodore Reyes,1974-04-08,639-60-9397,Texas
+544,Jasmine Nolan,1995-10-19,815-43-3412,Vermont
+646,Jennifer Franklin,1992-12-19,247-08-1456,Connecticut
+292,Sarah Burgess,1981-03-02,085-52-0231,Ohio
+499,Gloria Ferrell,1975-07-19,644-84-8265,Connecticut
+253,Austin Lucas,1988-07-27,352-61-1730,Nebraska
+267,Jennifer Powers,1981-05-31,032-82-6473,Nebraska
+458,William Perkins,1990-11-17,207-60-6624,Alabama
+360,Connie Adams,1983-08-13,552-08-6139,Wyoming
+620,Wesley Lopez,1987-03-18,470-29-3689,Kentucky
+345,Curtis Madden,1981-09-01,332-15-3058,North Dakota
+473,Jill Griffith,1994-05-10,642-52-4750,Kentucky
+282,Angela Bass,1993-01-28,087-56-2976,Utah
+130,Leslie Patterson,1976-07-25,783-90-2324,Missouri
+607,Aaron Padilla,1975-08-12,860-57-4140,Hawaii
+175,Robert Newman,1978-01-30,763-54-7849,Delaware
+334,Kristen White,1977-11-18,160-75-8903,Ohio
+581,Alyssa Taylor,1981-02-27,883-54-4613,Connecticut
+102,Thomas Bishop,1982-12-15,336-36-6594,Ohio
+316,Christopher Davis,1980-04-17,180-77-0327,Ohio
+99,Daniel Gibson,1977-12-15,306-15-3764,New Mexico
+580,Zachary Meyer,1979-06-24,754-18-6019,California
+286,Vicki Davenport,1975-10-10,260-45-2151,New Jersey
+354,Erin Wright,1988-07-16,341-34-1817,Alaska
+80,Teresa Hill,1994-09-22,686-34-8734,California
+567,Alex Thompson,1980-07-05,890-24-1235,South Carolina
+34,Michael Stewart,1994-07-09,663-12-8005,Kansas
+510,Jennifer King,1981-07-05,062-65-2111,Kansas
+84,Katherine Taylor,1983-07-17,112-57-7003,Rhode Island
+226,Katherine Hanna,1973-09-25,567-79-9817,Vermont
+31,Jacob Ortiz,1983-11-16,189-91-7287,Kansas
+137,Mary Hart,1974-05-03,225-01-9144,Washington
+268,Brian Smith,1979-08-18,033-75-0492,New Jersey
+193,Wesley Daniels,1981-09-22,684-03-3433,South Dakota
+564,Brian Jones,1991-08-25,237-48-0105,Connecticut
+245,Jason Morrison,1994-11-03,654-97-1337,Alabama
+264,Adam Curtis,1990-12-22,487-28-1693,Florida
+466,Cheryl Holloway,1978-08-25,815-74-6672,Indiana
+194,Emily Dixon,1992-02-16,633-74-7846,Indiana
+86,Warren Miller,1987-06-13,810-94-4207,Indiana
+289,Jason Stout,1975-01-15,005-99-1824,Mississippi
+208,Gregory Sanchez,1979-06-18,814-64-9573,Massachusetts
+593,Belinda Miller,1987-09-20,306-60-4866,Massachusetts
+101,Wayne Cook,1974-03-12,253-38-5835,Florida
+296,Cameron Robbins,1988-09-28,308-12-1809,Ohio
+6,Jonathan Holmes,1986-10-06,358-88-4653,Virginia
+380,Ronald Castillo,1982-05-27,514-12-7183,Illinois
+214,David Dunn,1980-11-18,696-92-5406,Arizona
+291,Hannah Douglas,1987-11-01,761-90-7943,Iowa
+188,George Owens,1984-01-22,333-38-5068,Kentucky
+468,Colin Lowe,1995-04-22,630-26-2724,Colorado
+55,Mitchell Taylor,1979-11-08,470-62-1971,Rhode Island
+525,Luis Turner,1993-08-06,008-17-9198,Missouri
+537,Samantha Harvey,1977-07-22,389-33-3381,Utah
+15,Joseph Thompson,1988-12-03,403-93-1260,Delaware
+65,Devin Clark,1982-12-13,562-32-9096,Nevada
+197,Nicholas Murray,1990-12-31,012-27-7636,Mississippi
+38,Eric Carter,1978-01-23,103-22-7407,Oklahoma
+115,Ashley Bright,1990-03-15,201-03-7560,Arkansas
+126,Karen Crosby,1992-04-30,009-18-9593,Texas
+180,Miranda Olson,1974-12-22,517-91-8779,New York
+488,Lisa Ellison,1994-01-06,598-31-6825,Minnesota
+326,Jaime Stanley,1992-01-11,132-64-4859,Idaho
+237,Richard Walter,1983-06-04,323-23-9222,Maine
+143,Ronald Williams,1983-09-21,180-77-2596,New York
+381,Ryan Cox,1986-11-06,780-68-3332,South Dakota
+338,Kevin Brown,1982-08-29,147-80-4697,Nevada
+495,Joshua Taylor,1994-07-16,625-38-7742,Alaska
+32,Lauren Smith,1993-05-25,065-08-4642,Minnesota
+634,Jeffrey Taylor,1981-11-04,395-93-2860,Vermont
+585,Jennifer Vincent,1995-01-13,179-15-6095,Alabama
+591,David Marshall,1984-02-10,070-26-4755,Minnesota
+408,Andre Hobbs,1974-02-24,043-36-1140,New Mexico
+20,Lisa Davis,1983-12-07,544-09-2021,New Hampshire
+548,Christopher Hill,1990-06-28,111-26-8330,Mississippi
+454,Robert Williamson,1979-08-16,580-53-4327,Iowa
+212,William Harris,1984-09-27,364-31-5309,New Hampshire
+290,Victoria Young,1982-09-27,146-71-0923,Maine
+597,Jamie Graham,1974-06-19,550-62-6001,South Dakota
+371,Richard Smith,1996-01-27,321-70-3764,Colorado
+547,Janet Coleman,1986-10-31,707-28-3172,Washington
+261,Lucas Lee,1976-10-24,061-02-4412,New Jersey
+251,Marissa Harrison,1994-10-10,771-60-1103,Maine
+624,Sean Zhang,1981-05-08,282-11-0800,Florida
+258,Victoria Castro,1991-08-10,149-16-6835,Michigan
+311,Faith Hawkins,1976-10-28,831-02-1853,Arkansas
+492,Christopher Donovan,1973-09-23,198-29-5800,North Dakota
+301,Holly White,1985-03-14,334-13-6332,Maryland
+189,Abigail Porter,1977-02-16,258-37-6493,Iowa
+229,Sydney Lawrence,1976-07-30,083-58-0847,Missouri
+368,Veronica Smith,1981-06-24,713-60-2680,New Mexico
+526,Maria Griffin,1979-02-03,156-22-4472,Minnesota
+435,Michael Gentry,1973-06-10,619-46-6535,Rhode Island
+623,Joshua Cline,1982-07-29,744-94-3459,Rhode Island
+440,Heather Crawford,1982-04-22,016-37-4586,Illinois
+111,Jeff Burgess,1986-04-01,664-52-2629,Oklahoma
+395,Karen Wilson,1977-03-25,768-05-0590,Kentucky
+228,Rachel Butler,1985-12-12,080-59-9667,Massachusetts
+386,Sarah Green,1991-11-03,010-17-2781,Wyoming
+407,Matthew Kelley,1985-10-19,311-99-5706,Ohio
+521,Matthew Patel,1993-10-23,048-89-1283,Arkansas
+361,Rachel Hartman,1980-08-02,394-53-0091,Kentucky
+314,Shaun Lewis,1995-07-11,306-28-8084,North Carolina
+278,Brian Mcdaniel,1976-01-06,096-82-0194,Washington
+369,Michael Marshall,1978-04-11,833-58-1934,Rhode Island
+594,Olivia Price,1974-10-28,316-04-4978,North Dakota
+619,Jonathan Schroeder,1990-04-26,292-28-4249,Alabama
+247,Ashley Romero,1989-12-26,843-85-0485,Ohio
+378,Maria Davis,1977-04-10,411-60-1219,New York
+186,Samuel Galvan,1974-07-08,703-20-8264,Alaska
+403,Aaron Jackson,1977-07-25,222-16-9508,Kentucky
+191,Michael Jackson,1987-07-23,781-81-3520,North Dakota
+221,Charles Rojas,1995-01-19,848-72-7222,Pennsylvania
+639,Tim Wilson,1995-08-14,328-01-8682,North Carolina
+235,Ashley James,1994-08-19,201-40-1525,Indiana
+239,Ann Simmons,1982-03-02,481-77-6842,Rhode Island
+515,Brian Ritter,1984-11-07,195-53-5280,Arizona
+220,Monica Parker,1989-07-25,845-81-2538,Pennsylvania
+26,Beth Moore,1990-12-28,840-20-2337,Louisiana
+224,Nathan Zavala,1993-11-14,603-16-4925,Missouri
+23,Jessica Joseph,1990-11-01,542-57-7074,California
+232,Robert Davis,1979-02-06,196-68-4801,Iowa
+416,Thomas Morris,1995-12-05,641-34-7081,Connecticut
+641,Kristy Miller,1975-12-08,445-96-1566,New Mexico
+17,Alexa Harrison,1979-01-27,056-92-9905,Alabama
+120,Joel Ramsey,1990-10-31,270-04-2377,New Mexico
+609,Thomas Williams,1989-07-14,366-58-3281,Arkansas
+93,Katelyn Richardson,1985-02-16,045-28-4348,Maryland
+168,Haley Martinez,1984-05-08,858-23-8462,Texas
+370,Joseph Wade,1973-06-05,126-70-6710,Ohio
+272,Mia Keller,1981-12-20,281-99-8124,Wyoming
+353,Margaret Watkins,1977-01-29,424-68-7622,Utah
+603,Megan Arroyo,1974-11-15,495-10-4686,South Dakota
+569,Mark Barnes,1981-03-21,871-66-1992,Wyoming
+91,Lauren Jones,1974-03-07,530-20-6745,Virginia
+181,Lynn Bennett,1994-02-04,004-55-9621,New York
+178,Stephen Perez,1980-11-28,249-34-4306,Alabama
+94,Guy Mitchell,1991-08-31,573-29-8469,Indiana
