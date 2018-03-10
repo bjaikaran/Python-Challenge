@@ -4,6 +4,6 @@
     "python.linting.pylintEnabled": true,
     "python.linting.pep8Enabled": false,
     "typescript.format.insertSpaceAfterTypeAssertion": true,
-    "code-runner.defaultLanguage": "python"
-    "python.terminal.activateEnvironments":true,
+    "code-runner.defaultLanguage": "python",
+    "python.terminal.activateEnvironments": true
 }
