@@ -5,5 +5,5 @@
     "python.linting.pep8Enabled": false,
     "typescript.format.insertSpaceAfterTypeAssertion": true,
     "code-runner.defaultLanguage": "python",
-    "python.terminal.activateEnvironments": true
+    "python.terminal.activateEnvironment": true
 }
