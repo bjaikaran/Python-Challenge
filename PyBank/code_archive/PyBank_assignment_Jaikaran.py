@@ -2,10 +2,11 @@ import numpy as numpy
 import pandas as pd
 
 csv_a = input("Enter the full path of the first Budget Data file for your CSV: ")
-csv_path_a = str(csv_a)
-csv_path_a
+    csv_path_a = str(csv_a)
+    csv_path_a
+
 bf_a = pd.read_csv(csv_path_a, encoding="utf-8")
-bf_a.head()
+    bf_a.head()
 
 
 csv_b = input("Enter the full path of the first Budget Data file for your CSV: ")
