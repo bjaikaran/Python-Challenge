@@ -1,5 +1,5 @@
-import pandas as pd
 import numpy as np
+import pandas as pd
 
 csv_a = input("Enter the full path of the first Budget Data file for your CSV: ")
 csv_path_a = str(csv_a)
