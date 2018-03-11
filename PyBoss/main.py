@@ -1,7 +1,7 @@
 import pandas as pd
 
-csv_path="employee_data1.csv"
-empData= pd.read_csv(csv_path, encoding="utf-8")
+csv_path = "employee_data1.csv"
+empData = pd.read_csv(csv_path, encoding="utf-8")
 us_state_abbrev = {
     'Alabama': 'AL',
     'Alaska': 'AK',
@@ -54,13 +54,13 @@ us_state_abbrev = {
     'Wisconsin': 'WI',
     'Wyoming': 'WY',
 }
-empData["SSN"]= "***-**-"+empData["SSN"].str[-4:]
-empData["DOB"] = empData["DOB"].str.replace("-","/")
-empData["DOB"]= empData["DOB"].str[-5:]+"/"+empData["DOB"].str[:4]
-empData[["Name","Last Name"]]= empData.Name.str.split(" ",expand=True)
+empData["SSN"] = "***-**-"+empData["SSN"].str[-4:]
+empData["DOB"] = empData["DOB"].str.replace("-", "/")
+empData["DOB"] = empData["DOB"].str[-5:]+"/"+empData["DOB"].str[:4]
+empData[["Name", "Last Name"]] = empData.Name.str.split(" ", expand=True)
 empData["State"] = empData["State"].map(us_state_abbrev)
-empClean = empData.rename(columns={"Name":"First Name",})
+empClean = empData.rename(columns={"Name": "First Name", })
 
-empNew = empClean[["Emp ID","First Name","Last Name","DOB","SSN","State"]]
+empNew = empClean[["Emp ID", "First Name", "Last Name", "DOB", "SSN", "State"]]
 empNew.to_csv("Converted_Employee_Data.csv", index=False, header=True)
 empNew.head()
