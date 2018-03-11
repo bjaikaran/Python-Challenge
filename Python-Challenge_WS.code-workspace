@@ -6,6 +6,10 @@
 	],
 	"settings": {
 		"files.defaultLanguage": "python",
-		"python.pythonPath": "C:\\ProgramData\\Anaconda5\\python.exe"
+		"python.pythonPath": "C:\\ProgramData\\Anaconda5\\python.exe",
+		"python.unitTest.promptToConfigure": false,
+		"python.unitTest.pyTestEnabled": false,
+		"python.unitTest.unittestEnabled": false,
+		"python.unitTest.nosetestsEnabled": false
 	}
 }

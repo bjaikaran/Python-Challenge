@@ -5,5 +5,13 @@
     "python.linting.pep8Enabled": false,
     "typescript.format.insertSpaceAfterTypeAssertion": true,
     "code-runner.defaultLanguage": "python",
-    "python.terminal.activateEnvironment": true
+    "python.terminal.activateEnvironment": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./PyBoss",
+        "-p",
+        "test*.py"
+    ],
+    "python.unitTest.unittestEnabled": true
 }
