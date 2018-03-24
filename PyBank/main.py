@@ -1,34 +1,27 @@
-import pandas as pd
+# Dependencies
+from matplotlib import pyplot as plt
+from scipy.stats import linregress
 
-#csv = input("Enter the full path of the first Budget Data file for your CSV: ")
-#csv_path = str(csv)
-csv_path ="resources/budget_data_a.csv"
-wFile = str(csv_path[:-3]+"txt")
+import numpy as np
 
-bf = pd.read_csv(csv_path, encoding="utf-8")
 
-bf["Date"] = bf["Date"].str.replace("20","")
-months = bf["Date"].nunique()
-bd_trev = bf["Revenue"].sum()
-avg_rev= int(bf["Revenue"].mean())
-bd_maxrev = bf["Revenue"].max()   
-max_rev=bf.loc[bf["Revenue"] == bd_maxrev,:]
-mxdate=str(max_rev.iloc[0]["Date"])
-mxval=str(bd_maxrev)
-bd_minrev = bf["Revenue"].min()
-min_rev=bf.loc[bf["Revenue"] == bd_minrev,:]
-mndate=str(min_rev.iloc[0]["Date"])
-mnval=str(bd_minrev)
-f= open(wFile,"w+")
-print("Total Months: "+'{:,}'.format(months))
-f.write("Total Months: "+'{:,}'.format(months)+"\n")
-print("Total Revenue: $"+'{:,}'.format(bd_trev))
-f.write("Total Revenue: $"+'{:,}'.format(bd_trev)+"\n")
-print("Average Revenue Change: $"+'{:,}'.format(avg_rev))
-f.write("Average Revenue Change: $"+'{:,}'.format(avg_rev)+"\n")
-print("Greatest Increase in Revenue: "+mxdate+" ("+mxval+")")
-f.write("Greatest Increase in Revenue: "+mxdate+" ("+mxval+")"+"\n")
-print("Greatest Decrease in Revenue: "+mndate+" ("+mnval+")")
-f.write("Greatest Decrease in Revenue: "+mndate+" ("+mnval+")"+"\n")
-f.close()
+x_axis = np.arange(0, 10, 1)
+fake = [1, 2.5, 2.75, 4.25, 5.5, 6, 7.25, 8, 8.75, 9.8]
 
+(slope, intercept, _, _, _) = linregress(x_axis, fake)
+fit = slope * x_axis + intercept
+
+fig, ax = plt.subplots()
+
+fig.suptitle("Fake Banana Data!", fontsize=16, fontweight="bold")
+
+ax.set_xlim(0, 10)
+ax.set_ylim(0, 10)
+
+ax.set_xlabel("Fake Banana Ages (in days)")
+ax.set_ylabel("Fake Banana Weights (in Hundres of Kilograms)")
+
+ax.plot(x_axis, fake, linewidth=0, marker='o')
+ax.plot(x_axis, fit, 'b--')
+
+plt.show()
